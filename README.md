@@ -6,4 +6,5 @@ This is made only for !educational purposes! So i am not liable for any things. 
 
 ### Features:
 `screenshot:`Takes screenshot by file open trough discord webhook
+
 `ip:` Sends ip addres to chat trough webhook 
