@@ -5,5 +5,5 @@ This is made only for !educational purposes! So i am not liable for any things. 
 ## created by [@puzzle_shock1](https://replit.com/@puzzleshock1)
 
 ### Features:
--Takes screenshot by file open trough webhook
--Sends ip addres to discord chat
+`screenshot:`Takes screenshot by file open trough discord webhook
+`ip:` Sends ip addres to chat trough webhook 
